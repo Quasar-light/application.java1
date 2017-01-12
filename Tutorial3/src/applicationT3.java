@@ -13,5 +13,7 @@ public class applicationT3 {
 		
 		System.out.println(greeting);
 		System.out.println("You are beautiful" + " " + "tee");
+		System.out.println("My integer is: " + myInt ); 
+		System.out.println("can I");
 	}
 }
